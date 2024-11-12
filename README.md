@@ -7,5 +7,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giorgi-Jalali&layout=compact&theme=tokyonight&hide_border=true)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Giorgi-Jalali&show_icons=true&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Giorgi-Jalali&show_icons=true&theme=tokyonight&hide_border=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=giorgi-jalali&theme=tokyonight&hide_border=true)<br/>
